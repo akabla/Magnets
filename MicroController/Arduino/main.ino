@@ -19,6 +19,8 @@ String readString, refstring1, refstring2, refstring3;
 
 // What a nice code
 
+// I agree: it is nice.
+
 void setup() {
   
   // initialise serial communication at 9600 bits per second:
